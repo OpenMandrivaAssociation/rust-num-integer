@@ -4,8 +4,8 @@
 %global crate num-integer
 
 Name:           rust-%{crate}
-Version:        0.1.44
-Release:        2
+Version:        0.1.46
+Release:        1
 Summary:        Integer traits and functions
 
 # Upstream license specification: MIT/Apache-2.0
